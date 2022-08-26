@@ -1,0 +1,43 @@
+.north {
+    background: #E67676;
+    width: 200px;
+    padding: 50px;
+    margin: 0px;
+    }
+  
+    .east {
+    background: #F2F062;
+    width: 200px;
+    padding: 50px;
+    margin: 0px;
+  }
+  
+  .south {
+    background: #A9E6E6;
+    width: 200px;
+    padding: 50px;
+    margin: 0px;
+  }
+  
+  .west {
+    background: #7692E4;
+    width: 200px;
+    padding: 50px;
+    margin: 0px;
+  }
+  
+  div {
+    border: 5px solid #4285f4;
+    width: 300px;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Caveat', cursive;
+    font-size: 24px;
+    color: white;
+  }
+
+  /*
+  Change the text of the second
+  if the number is bigger than 100 to whoah, that's a big number.
+  otherwise just a regular number, please.
+  Change the text to Power of DOM of the third if the word is cool, otherwise change the fourth one*/
